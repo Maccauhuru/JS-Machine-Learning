@@ -1,2 +1,2 @@
-# ml5-boilerplate: with p5.js
-A basic html, css, javascript boilerplate for working building a project with ml5.js
+# ml5.js Image Classification: with p5.js
+A basic html, css, javascript project for machine learning using  ml5.js & p5.js
